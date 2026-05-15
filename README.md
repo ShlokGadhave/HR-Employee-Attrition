@@ -17,7 +17,7 @@ The project demonstrates practical data analysis skills including:
 
 This project was built using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
 
----
+
 
 # Project Objectives
 
@@ -54,7 +54,7 @@ The dataset contains HR-related employee information such as:
 
 The dataset is commonly used for Employee Attrition Analysis and HR Analytics projects.
 
----
+
 
 # Technologies Used
 
@@ -69,7 +69,7 @@ The dataset is commonly used for Employee Attrition Analysis and HR Analytics pr
 * Matplotlib
 * Seaborn
 
----
+
 
 # Project Workflow
 
@@ -84,7 +84,7 @@ df.shape
 df.describe()
 ```
 
----
+
 
 ## 2. Data Understanding
 
@@ -97,7 +97,7 @@ Several inspection techniques were used to understand the structure of the datas
 * Duplicate Checking
 * Missing Value Analysis
 
----
+
 
 ## 3. Data Cleaning
 
@@ -114,7 +114,7 @@ The following preprocessing steps were performed:
 
 These columns were removed because they provided little analytical value.
 
----
+
 
 # Feature Engineering
 
@@ -133,7 +133,7 @@ Purpose:
 
 * Helps analyze attrition across age categories.
 
----
+
 
 ## 2. Income Rate Category
 
@@ -149,7 +149,7 @@ Purpose:
 
 * Helps understand salary distribution and attrition trends.
 
----
+
 
 ## 3. Experience Level
 
@@ -165,7 +165,7 @@ Purpose:
 
 * Understand how experience impacts attrition.
 
----
+
 
 ## 4. Promotion Gap
 
@@ -180,7 +180,7 @@ Purpose:
 * Measures promotion delay.
 * Helps identify employee dissatisfaction.
 
----
+
 
 ## 5. Distance From Office Category
 
@@ -196,7 +196,7 @@ Purpose:
 
 * Analyze whether travel distance impacts attrition.
 
----
+
 
 ## 6. Income Per Level
 
@@ -210,7 +210,7 @@ Purpose:
 
 * Compare employee compensation relative to hierarchy.
 
----
+
 
 ## 7. Overtime Flag
 
@@ -225,7 +225,7 @@ Purpose:
 
 * Easier correlation and modeling.
 
----
+
 
 ## 8. Attrition Flag
 
@@ -235,7 +235,7 @@ Purpose:
 
 * Simplifies visualization and correlation analysis.
 
----
+
 
 ## 9. Travel Stress Score
 
@@ -432,7 +432,7 @@ Through this project, the following concepts were strengthened:
 * HR domain understanding
 * Analytical thinking
 
----
+
 
 # Conclusion
 
@@ -440,7 +440,7 @@ This project successfully analyzed employee attrition patterns using Python-base
 
 The project highlights how data analytics can help organizations understand employee behavior and make better HR decisions to improve employee retention.
 
----
+
 
 # Author
 
